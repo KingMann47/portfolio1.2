@@ -1,0 +1,51 @@
+h1{
+    background-color: pink;
+    color: rgb(116, 40, 116);
+}
+/* *{
+    border: solid;
+} */
+h2{
+    color: indigo;
+    font-size: 100;
+}
+p{
+    color: darkred;
+    font-size: 100;
+}
+.site-description{
+    display: flex;
+    flex-direction: column;
+    justify-content: first baseline;
+}
+.header{
+    background: slateblue;
+    display: flex;
+    justify-content: space-between;
+}
+.dis{
+    background: grey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+   
+}
+.dis1{
+    background: grey;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+ 
+}
+.grid{
+    background: gray;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    background: grey;
+}
